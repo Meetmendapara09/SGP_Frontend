@@ -27,5 +27,3 @@ This is the frontend client for SyncroSpace, a unified collaborative platform fo
 - Framer Motion
 - PhaserJS
 - Socket.io-client
-
-See `instruction.md` for full requirements and roadmap.
